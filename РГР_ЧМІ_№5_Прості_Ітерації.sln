@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34616.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "РГР_ЧМІ_№5_Прості_Ітерації", "РГР_ЧМІ_№5_Прості_Ітерації\РГР_ЧМІ_№5_Прості_Ітерації.csproj", "{21A64466-28C7-4FD0-9421-6010702BBB74}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "РГР_ЧМІ_№5_Хорд", "РГР_ЧМІ_№5_Хорд\РГР_ЧМІ_№5_Хорд.csproj", "{5C1BA017-78B6-44A0-85DB-0C61EB7B2168}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{21A64466-28C7-4FD0-9421-6010702BBB74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21A64466-28C7-4FD0-9421-6010702BBB74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21A64466-28C7-4FD0-9421-6010702BBB74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21A64466-28C7-4FD0-9421-6010702BBB74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C1BA017-78B6-44A0-85DB-0C61EB7B2168}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C1BA017-78B6-44A0-85DB-0C61EB7B2168}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C1BA017-78B6-44A0-85DB-0C61EB7B2168}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C1BA017-78B6-44A0-85DB-0C61EB7B2168}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B1E47ED9-E580-42CA-8709-567A2586D6B3}
+	EndGlobalSection
+EndGlobal
